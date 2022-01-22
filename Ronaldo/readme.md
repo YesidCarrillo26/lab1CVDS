@@ -8,6 +8,9 @@
  * *Interesado en la rama de ciberseguridad.*
  * Amante de la saga Fallout.
 
+Es inevitable pensar como a veces gran parte de lo que hacemos no tiene sentido, la satisfaccion dura poco y lo que al\
+final realmente parece importante es las vivencias con nuestros seres queridos. Dedicacion: DLPT
+
 ## Redes sociales:
 * [Facebook](https://www.facebook.com/ronaldo.henao)
 * [Instagram](https://www.instagram.com/ronaldohenao/)
