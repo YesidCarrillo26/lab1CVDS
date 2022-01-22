@@ -8,6 +8,10 @@
  * *Interesado en la rama de ciberseguridad.*
  * Amante de la saga Fallout.
 
+## Redes sociales:
+* [Facebook](https://www.facebook.com/ronaldo.henao)
+* [Instagram](https://www.instagram.com/ronaldohenao/)
+
 ## Laboratorio 1 CVDS
 
 1. Realizamos el conjunto de pasos solicitados en el laboratorio y llegamos a la parte en donde podemos visualizar el historial de cambios en el repositorio por medio del comando gitk.
