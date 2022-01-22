@@ -20,6 +20,7 @@ aprender a usar bien los comandos.
 
 ## Laboratorio 1 CVDS
 
+### Compadre/Compañero: Yesid Carrillo
 Some python love:
 ```
 def main():
