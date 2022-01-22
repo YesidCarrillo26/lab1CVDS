@@ -9,7 +9,10 @@
  * Amante de la saga Fallout.
 
 Es inevitable pensar como a veces gran parte de lo que hacemos no tiene sentido, la satisfaccion dura poco y lo que al\
-final realmente parece importante es las vivencias con nuestros seres queridos. Dedicacion: DLPT
+final realmente parece importante es las vivencias con nuestros seres queridos. Dedicacion: DLPT\
+
+El poder de Git es sorprendente, permite manejar el trabajo en equipo de la mejor manera, solo es cuestion de\
+aprender a usar bien los comandos.
 
 ## Redes sociales:
 * [Facebook](https://www.facebook.com/ronaldo.henao)
