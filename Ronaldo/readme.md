@@ -37,10 +37,11 @@ main()
 ![](/Ronaldo/gitk.png)
 
 2. Realizamos cada uno de los ejercicios solicitados en la pagina de [git branching](https://learngitbranching.js.org/)
+
 a. Local
-![](/Ronaldo/parte1)
-![](/Ronaldo/parte2)
+![](/Ronaldo/parte1.jpg)
+![](/Ronaldo/parte2.jpg)
 
 b. Remoto
-![](/Ronaldo/parte3)
+![](/Ronaldo/parte3.jpg)
 
